@@ -118,7 +118,6 @@ export default function Home() {
                 alt="Lenny at work"
                 layout="fill"
                 objectFit="cover"
-                className="rounded-lg"
               />
             </div>
           </div>
