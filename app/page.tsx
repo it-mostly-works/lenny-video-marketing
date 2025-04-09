@@ -53,8 +53,7 @@ export default function Home() {
               Meet Lenny: Your Furry Video Marketing Companion!
             </h1>
             <p className="text-xl text-amber-700 mb-8">
-              Unleash the power of video with Lenny, the Irish Terrier who
-              fetches success for your marketing!
+              Where your video content sits, stays, and delivers results that make tails wag!
             </p>
             <div className="relative w-64 h-64 mx-auto mb-8">
               <Image
