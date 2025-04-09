@@ -62,7 +62,6 @@ export default function Home() {
                 alt="Lenny the Irish Terrier"
                 layout="fill"
                 objectFit="cover"
-                className="rounded-full"
               />
             </div>
             <Button className="bg-amber-600 hover:bg-amber-700 text-white">
