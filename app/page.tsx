@@ -56,13 +56,13 @@ export default function Home() {
               Unleash the power of video with Lenny, the Irish Terrier who
               fetches success for your marketing!
             </p>
-            <div className="relative w-64 h-64 mx-auto mb-8">
+            <div className="relative mx-auto mb-8">
               <Image
                 src="/lenny.webp?height=256&width=256"
                 alt="Lenny the Irish Terrier"
                 layout="fill"
                 objectFit="cover"
-                className="rounded-full"
+                className="rounded-lg"
               />
             </div>
             <Button className="bg-amber-600 hover:bg-amber-700 text-white">
@@ -112,7 +112,7 @@ export default function Home() {
               marketing tool. Lenny believes that every bark should be heard,
               just like every video should be seen!
             </p>
-            <div className="relative w-80 h-80 mx-auto">
+            <div className="relative mx-auto">
               <Image
                 src="/lenny2.webp?height=320&width=320"
                 alt="Lenny at work"
